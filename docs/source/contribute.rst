@@ -1,6 +1,6 @@
 :og:author: Renato Cruz (natorsc)
 :og:title: Contribua - justCode
-:og:description: Contribua com o projeto criando interfaces gráficas com Python e Tkinter.
+:og:description: Contribua com o projeto criando interfaces gráficas com Python (PySide6) e Qt 6.
 
 .. meta::
    :author: Renato Cruz (natorsc)

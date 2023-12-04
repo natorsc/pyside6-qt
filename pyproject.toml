@@ -1,7 +1,7 @@
 [project]
-name = ""
-version = ""
-description = ""
+name = "pyside6-qt"
+version = "0.0.1"
+description = "Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PySide6) e o framework gráfico Qt 6."
 authors = [
     {name = "Renato Cruz", email = "natorsc@gmail.com"},
 ]
