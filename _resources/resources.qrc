@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/br.com.justcode.PySide6.png</file>
+        <file>icons/application-exit.svg</file>
+        <file>icons/edit-copy.svg</file>
+        <file>icons/edit-cut.svg</file>
+    </qresource>
+    <qresource prefix="images">
+        <file alias="thunderstorm">images/thunderstorm.jpg</file>
+    </qresource>
+</RCC>
