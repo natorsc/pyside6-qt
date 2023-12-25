@@ -96,6 +96,11 @@ Para facilitar a localização e organização dos conteúdos, a documentação 
 - [Blog](https://blogs.kde.org/).
 - [KDE Human Interface Guidelines (HIG)](https://develop.kde.org/hig/).
 
+#### Ícones
+
+- [Cuttlefish](https://develop.kde.org/docs/features/icons/). O Cuttlefish pode ser instalado através do pacote `plasma-sdk` ou `plasma-sdk6`.
+- [Breeze (CDN)](https://cdn.kde.org/breeze-icons/icons.html).
+
 ### Softwares
 
 - [Awesome Qt (JesseTG)](https://github.com/JesseTG/awesome-qt).
